@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Afsarali2003
+- 👋 Hi, I’m @Afsarali
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning c and python language
 - 💞️ I’m looking to collaborate on big company
